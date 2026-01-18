@@ -2,3 +2,5 @@
 *.lck
 fp-info-cache
 \#auto_saved_files#
+fp-lib-table
+sym-lib-table
